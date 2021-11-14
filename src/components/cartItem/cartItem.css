@@ -1,0 +1,36 @@
+.cart-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: nowrap;
+  height: 25vh;
+  width: 80%;
+  margin: auto;
+}
+.im {
+  height: 20vh;
+  width: 12vw;
+}
+.container {
+  height: 100%;
+  width: 100%;
+}
+.de {
+  padding-left: 8vw;
+}
+.qua {
+  padding-left: 15vw;
+}
+.pr {
+  padding-left: 16vw;
+}
+.rem {
+  padding-left: 15vw;
+  cursor: pointer;
+}
+.toggle {
+  font-size: larger;
+  padding-left: 2px;
+  cursor: pointer;
+}

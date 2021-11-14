@@ -1,0 +1,37 @@
+.center {
+  display: flex;
+  justify-content: center;
+}
+.cart-column {
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 7vw;
+}
+.hidden {
+  display: none;
+}
+.cart-total {
+  height: 12vh;
+  background-color: black;
+  width: 20vw;
+  padding-right: 5vw;
+  border-radius: 15px;
+}
+.cart-total h2 {
+  color: blanchedalmond;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 10vw;
+}
+.clear-cart {
+  padding: auto;
+  background-color: black;
+  color: aliceblue;
+  font-weight: bold;
+  border-radius: 15px;
+}
